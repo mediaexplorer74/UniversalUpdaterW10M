@@ -34,6 +34,10 @@ Fork of Fadil's updater for Windows 10 Mobile for some special.. =)
 ## " 3d party libs "
 https://www.mediafire.com/file/9nc5rsihinwstlt/Microsoft_vcredist_.zip/file
 
+## TODO
+- Experimentation with 10.0.16212.1000 (iot, etc.)
+- Experimentation with 10.0.16299.241 (Polaris)
+
 ## Thanks / credits
 [Fadil Fadz](https://github.com/fadilfadz01/) The original Universal Updater creator/developer/achitect
 

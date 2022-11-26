@@ -1,4 +1,4 @@
-# Universal Updater UWP
+# Universal Updater W10M
 Fork of Fadil's updater for Windows 10 Mobile for some special.. =)
 
 # Screenshots

@@ -3,23 +3,23 @@ Fork of Fadil's updater for Windows 10 Mobile for some special.. =)
 
 # Screenshots
 <table><tr>
-<td> <img src="Images/shot1.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot1.png" alt="Drawing" style="width: 80px;"/> </td>
 </tr></table>
 
 <table><tr>
-<td> <img src="Images/shot2.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot2.png" alt="Drawing" style="width: 80px;"/> </td>
 </tr></table>
 
 <table><tr>
-<td> <img src="Images/shot3.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot3.png" alt="Drawing" style="width: 80px;"/> </td>
 </tr></table>
 
 <table><tr>
-<td> <img src="Images/shot4.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot4.png" alt="Drawing" style="width: 80px;"/> </td>
 </tr></table>
 
 <table><tr>
-<td> <img src="Images/shot5.png" alt="Drawing" style="width: 800px;"/> </td>
+<td> <img src="Images/shot5.png" alt="Drawing" style="width: 80px;"/> </td>
 </tr></table>
 
 <table><tr>

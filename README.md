@@ -6,6 +6,10 @@ Fork of Fadil's updater for Windows 10 Mobile for some special.. =)
 <td> <img src="Images/shot1.png" alt="Drawing" style="width: 160px;"/> </td>
 <td> <img src="Images/shot2.png" alt="Drawing" style="width: 160px;"/> </td>
 <td> <img src="Images/shot3.png" alt="Drawing" style="width: 160px;"/> </td>
+
+</tr></table>
+
+<table><tr>
 <td> <img src="Images/shot4.png" alt="Drawing" style="width: 160px;"/> </td>
 <td> <img src="Images/shot5.png" alt="Drawing" style="width: 160px;"/> </td>
 <td> <img src="Images/shot6.png" alt="Drawing" style="width: 160px;"/> </td>
